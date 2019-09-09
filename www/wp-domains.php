@@ -8,11 +8,11 @@ define("WP_DOMAINS_INITIALIZED", 1);
 //*** УКАЖИТЕ ЗДЕСЬ СВОИ ДОМЕНЫ ***
 //*********************************
 $domains_enabled = array(
-    "mysite.local",
-    "www.mysite.local",
-    "mysite-test.hosting.ru",
-    "mysite.ru",
-    "www.mysite.ru"
+    "pluzhnov.local",
+    "www.pluzhnov.local",
+    "pluzhnov-test.hosting.ru",
+    "pluzhnov.ru",
+    "www.pluzhnov.ru"
 );
  
 //Добавим в массив $_SERVER все необходимые для проверки ключи,
