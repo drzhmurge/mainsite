@@ -23,10 +23,10 @@ require_once(__DIR__ . "/wp-domains.php");
 define( 'DB_NAME', 'mainsite' );
 
 /** Имя пользователя MySQL */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'drzhmurge' );
 
 /** Пароль к базе данных MySQL */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'EpiphoneG310' );
 
 /** Имя сервера MySQL */
 define( 'DB_HOST', 'localhost' );
